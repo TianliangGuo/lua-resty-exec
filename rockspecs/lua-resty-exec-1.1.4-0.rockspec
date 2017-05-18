@@ -1,17 +1,9 @@
--- This file was automatically generated for the LuaDist project.
-
 package = "lua-resty-exec"
-version = "1.1.3-0"
--- LuaDist source
+version = "1.1.4-0"
 source = {
-  url = "git://github.com/LuaDist2/lua-resty-exec.git",
-  tag = "1.1.3-0"
+    url = "https://github.com/jprjr/lua-resty-exec/archive/1.1.4.tar.gz",
+    file = "lua-resty-exec-1.1.4.tar.gz"
 }
--- Original source
--- source = {
---     url = "https://github.com/jprjr/lua-resty-exec/archive/1.1.3.tar.gz",
---     file = "lua-resty-exec-1.1.3.tar.gz"
--- }
 description = {
     summary = "Run external programs in OpenResty without spawning a shell",
     homepage = "https://github.com/jprjr/lua-resty-exec",
